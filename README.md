@@ -1,3 +1,5 @@
-Email: andrew (dot) gazelka (at) gmail (dot) com 
+Hello, I'm Andrew 👋🏼
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgazelka&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
+I'm a self-taught programmer—but I also am graduating UMN csci in spring 2021.
+
+Email: andrew (dot) gazelka (at) gmail (dot) com 
