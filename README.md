@@ -8,7 +8,7 @@ Some things I ❤️ that you should look at!
 - 🎧 [CoRecursive podcast](https://open.spotify.com/show/2LQQb08WTikg5SO85TzoxM?si=lkkmkUYZTiq2qX4aNlNR1A)
 - 🐱 [Git Rebase](https://git-scm.com/docs/git-rebase)
 - ⌨️ [IdeaVim](https://github.com/JetBrains/ideavim)
-- 🧼 [CleanCode](http://blog.cleancoder.com/)
+- 🧼 [Clean Code](http://blog.cleancoder.com/)
 
 The classes I am currently taking are:
 - 💻 Computer Graphics
