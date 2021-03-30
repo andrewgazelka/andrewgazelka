@@ -14,7 +14,7 @@ The classes I am currently taking are:
 - 🗃 Data Mining
 - ⚡️ Parallel Computing
 
-I consider myself competent in...
+I consider myself competent in:
 
 |Topic|List|
 |--------|-----|
