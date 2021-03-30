@@ -37,7 +37,7 @@ What I am learning independently
 - GPU programming
 - ReasonML (OCaml variant) with React
 
-Favorite things I have made:
+Projects I've worked on that have cool visuals:
 
 |Project|Description|Demonstration|
 |--------|-----|-------|
