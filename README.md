@@ -36,4 +36,4 @@ Favorite things I have made:
 |--------|-----|-------|
 |[ezAuton](https://github.com/ezAuton/ezAuton/)|A library for autonomous vehicle navigation I made in my junior & senior years of high school. Uses Java and Kotlin.|![ezAuton](.github/ezAuton.gif)|
 |[OneShotMC](https://youtu.be/XD1uop6fzR8)|My former Minecraft server I developed/created, which had over 100k unique joins. Uses a bunch of Kotlin, Java, and a little bit of TypeScript/Python/JavaScript for web applications.|![OneShotMC](.github/osmc.gif)|
-|[Ray tracer](https://github.com/andrewgazelka/csci5607-proj3)|A project for my computer graphics class made in C++|![RayTracer](.github/transmissive.png)|
+|[Ray tracer](https://github.com/andrewgazelka/csci5607-proj3)|A project for my computer graphics class made in C++|![RayTracer](.github/raytracer.png)|
