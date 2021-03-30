@@ -5,6 +5,7 @@ I'm currently a full stack developer, but I also enjoy other fields such as mach
 A couple things I ❤️ that you should learn about!
 -   <img src=".github/kotlin.png" alt="Kotlin Emoji" width="15"> [Structured concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 - 🦀 [Memory ownership](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
+- 🎧 [CoRecursive podcast](https://open.spotify.com/show/2LQQb08WTikg5SO85TzoxM?si=lkkmkUYZTiq2qX4aNlNR1A)
 
 The classes I am currently taking are:
 - 💻 Computer Graphics
@@ -13,3 +14,8 @@ The classes I am currently taking are:
 - 🗃 Data Mining
 - ⚡️ Parallel Computing
 
+Languages I consider myself competent in: Kotlin, Rust, C(++), Python, JS/TS, Java
+
+What I am learning independently
+- Haskell (I love immutability and FP!)
+- GPU programming
