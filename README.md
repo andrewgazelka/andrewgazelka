@@ -1,4 +1,4 @@
-Hello, I'm Andrew 👋🏼. Please email me for my résumé or for general inquiries: `andrew (dot) gazelka (at) gmail (dot) com` 
+Hello, I'm Andrew 👋🏼. Please email me for my resume or for general inquiries: `andrew (dot) gazelka (at) gmail (dot) com` 
 
 I'm currently a full stack developer, but I also enjoy other fields such as machine learning and parallel computing. Although I am mostly self-taught, I am majoring in CSCI and expect to recieve my degree from University of Minnesota in spring 2021.
 
