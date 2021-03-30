@@ -1,6 +1,6 @@
 Hello, I'm Andrew 👋🏼. Please email me for my resume or for general inquiries: `andrew (dot) gazelka (at) gmail (dot) com` 
 
-I'm currently a full stack developer with [@eitmn](https://github.com/eitmn], but I also enjoy other fields such as machine learning and parallel computing. Although I am mostly self-taught, I am majoring in CSCI and expect to recieve my degree from University of Minnesota in spring 2021.
+I'm currently a full stack developer with [@eitmn](https://github.com/eitmn), but I also enjoy other fields such as machine learning and parallel computing. Although I am mostly self-taught, I am majoring in CSCI and expect to recieve my degree from University of Minnesota in spring 2021.
 
 A few things I ❤️ that you should look at!
 -   <img src=".github/kotlin.png" alt="Kotlin Emoji" width="15"> [Structured concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
