@@ -14,8 +14,15 @@ The classes I am currently taking are:
 - 🗃 Data Mining
 - ⚡️ Parallel Computing
 
-Languages I consider myself competent in: Kotlin, Rust, C(++), Python, JS/TS, Java
+I consider myself competent in...
+
+|Topic|List|
+|--------|-----|
+|Languages|Kotlin, Rust, C(++), Dart, Go, Python, JS/TS, Java|
+|Frameworks|Angular, Flutter, NestJS|
+|Databases|MySQL, MariaDB, Postgres, MongoDB, Redis|
 
 What I am learning independently
 - Haskell (I love immutability and FP!)
 - GPU programming
+- ReasonML (OCaml variant) with React
