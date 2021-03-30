@@ -1,9 +1,3 @@
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&custom_title=Weekly+Stats">
-</p>
-
-
-
 Hello, I'm Andrew 👋🏼. Please email me for my resume or for general inquiries: `andrew (dot) gazelka (at) gmail (dot) com` 
 
 I'm currently a full stack developer with [@eitmn](https://github.com/eitmn) (contract for United Health Group and similarly sized companies), but I also enjoy other fields such as machine learning and parallel computing. Although I am mostly self-taught, I am majoring in CSCI and expect to recieve my degree from University of Minnesota in spring 2021.
@@ -15,6 +9,11 @@ Some things I ❤️ that you should look at!
 - 🐱 [Git Rebase](https://git-scm.com/docs/git-rebase)
 - ⌨️ [IdeaVim](https://github.com/JetBrains/ideavim)
 - 🧼 [Clean Code](http://blog.cleancoder.com/)
+
+This week, my programming time has been spent as such:
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
+</p>
 
 The classes I am currently taking are:
 - 💻 Computer Graphics
@@ -43,3 +42,5 @@ Favorite things I have made:
 |[ezAuton](https://github.com/ezAuton/ezAuton/)|A library for autonomous vehicle navigation I made in my junior & senior years of high school. Uses Java and Kotlin.|![ezAuton](.github/ezAuton.gif)|
 |[OneShotMC](https://youtu.be/XD1uop6fzR8)|My former Minecraft server I developed/created, which had over 100k unique joins. Uses a bunch of Kotlin, Java, and a little bit of TypeScript/Python/JavaScript for web applications.|![OneShotMC](.github/osmc.gif)|
 |[Ray tracer](https://github.com/andrewgazelka/csci5607-proj3)|A project for my computer graphics class made in C++|![RayTracer](.github/raytracer.png)|
+
+
