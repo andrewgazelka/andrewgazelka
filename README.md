@@ -45,4 +45,4 @@ Projects I've worked on that have cool visuals:
 |[OneShotMC](https://youtu.be/XD1uop6fzR8)|My former Minecraft server I developed/created, which had over 100k unique joins. Uses a bunch of Kotlin, Java, and for web applications uses a little bit of TypeScript/Python/JavaScript.|![OneShotMC](.github/osmc.gif)|
 |[Ray tracer](https://github.com/andrewgazelka/csci5607-proj3)|A project for my computer graphics class made in C++|![RayTracer](.github/raytracer.png)|
 
-
+Most of my web/app development (JS/TS/Flutter/Angular/NestJS) is private! Please contact me if you want an overview!!
