@@ -12,7 +12,7 @@ Some things I ❤️ that you should look at!
 - ⌨️ [IdeaVim](https://github.com/JetBrains/ideavim)
 - 🧼 [Clean Code](http://blog.cleancoder.com/)
 
-This week, my programming time has been spent as follows <sub><sup>(note does not count work done on work laptop)</sup></sub>:
+This week, my programming time has been spent as follows <sub><sup>(note does not count work done on work laptop):</sup></sub>
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
 </p>
