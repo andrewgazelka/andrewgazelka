@@ -17,13 +17,6 @@ This week, my programming time <sub><sup>(not counting work done on work laptop)
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
 </p>
 
-The classes I am currently taking are:
-- 💻 Computer Graphics
-- 📷 Computer Vision
-- 🧠 Machine Learning
-- 🗃 Data Mining
-- ⚡️ Parallel Computing
-
 I consider myself competent in:
 
 |Topic|List|
