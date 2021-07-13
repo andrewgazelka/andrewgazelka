@@ -10,23 +10,10 @@ Some things I ❤️ that you should look at!
 - ⌨️ [IdeaVim](https://github.com/JetBrains/ideavim)
 - 🧼 [Clean Code](http://blog.cleancoder.com/)
 
-This week, my programming time <sub><sup>(not counting work done on work laptop)</sup></sub> has been spent as follows:
+This week, my programming time has been spent as follows:
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
 </p>
-
-I consider myself competent in:
-
-|Topic|List|
-|--------|-----|
-|Languages|Kotlin, Rust, C(++), Dart, Go, Python, JS/TS, Java|
-|Frameworks|Angular, Flutter, NestJS|
-|Databases|MySQL, MariaDB, Postgres, MongoDB, Redis|
-
-What I am learning independently
-- Haskell (I love immutability and FP!)
-- GPU programming
-- ReasonML (OCaml variant) with React
 
 Projects I've worked on that have cool visuals:
 
