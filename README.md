@@ -1,6 +1,6 @@
 ### Hello, I'm Andrew 👋🏼. 
 
-**Please email me for my resume** or for general inquiries: `andrew (dot) gazelka (at) gmail (dot) com`. My Discord is `Andrew Gazelka#0001`. Most of my code is private. If you want an overview of it to access my proficiency, please contact me.
+Contact: `{first} (dot) {last} (at) gmail (dot) com`. My Discord is `Andrew Gazelka#0001`. 
 
 Some things I ❤️ that you should look at!
 -   <img src=".github/kotlin.png" alt="Kotlin Emoji" width="15"> [Structured concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
