@@ -20,9 +20,7 @@ Projects I've worked on that have cool visuals:
 |Project|Description|Demonstration|
 |--------|-----|-------|
 |[ezAuton](https://github.com/ezAuton/ezAuton/)|A library for autonomous vehicle navigation I made in my junior & senior years of high school. Uses Java and Kotlin.|![ezAuton](.github/ezAuton.gif)|
-|[OneShotMC](https://youtu.be/XD1uop6fzR8)|My former Minecraft server I developed/created, which had over 100k unique joins. Uses a bunch of Kotlin, Java, and for web applications uses a little bit of TypeScript/Python/JavaScript.|![OneShotMC](.github/osmc.gif)|
 |[Ray tracer](https://github.com/andrewgazelka/csci5607-proj3)|A project for my computer graphics class made in C++|![RayTracer](.github/raytracer.png)|
-|[TSP Solver](https://github.com/andrewgazelka/SimulatedAnnealing)|A rather simple project, but it is really pretty! This uses Kotlin, TornadoFX (JavaFX extension), and simulated annealing to solve the traveling sales person problem.|![Simulated Annealing](https://user-images.githubusercontent.com/7644264/114594706-27ddd480-9c53-11eb-9999-af75e5de79c4.gif)|
 |[Rust OpenStreetMap](https://github.com/andrewgazelka/RustOpenStreetMap)|A pathfinding library that uses parallel bi-direcitonal A* to find shortest paths in Minnesota. Uses custom low-memory `Vec` implementation and message passing. Can find any path in an average time of 3.5ms. The picture shows the paths generated from running with 1000 random start-end pairs.|![Rust OSM](https://github.com/andrewgazelka/RustOpenStreetMap/blob/master/.github/bda.png)|
 
 **Most of my web/app development (JS/TS/Flutter/Angular/NestJS) is private! Please contact me if you want an overview!!**
