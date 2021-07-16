@@ -12,7 +12,7 @@ Some things I ❤️ that you should look at!
 
 This week, my programming time has been spent as follows:
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
+  <img width="460" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
 </p>
 
 Projects I've worked on that have cool visuals:
