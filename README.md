@@ -14,11 +14,3 @@ This week, my programming time has been spent as follows:
 <p align="center">
   <img width="460" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
 </p>
-
-Projects I've worked on that have cool visuals:
-
-|Project|Description|Demonstration|
-|--------|-----|-------|
-|[ezAuton](https://github.com/ezAuton/ezAuton/)|A library for autonomous vehicle navigation I made in my junior & senior years of high school. Uses Java and Kotlin.|![ezAuton](.github/ezAuton.gif)|
-|[Ray tracer](https://github.com/andrewgazelka/csci5607-proj3)|A project for my computer graphics class made in C++|![RayTracer](.github/raytracer.png)|
-|[Rust OpenStreetMap](https://github.com/andrewgazelka/RustOpenStreetMap)|A pathfinding library that uses parallel bi-direcitonal A* to find shortest paths in Minnesota. Uses custom low-memory `Vec` implementation and message passing. Can find any path in an average time of 3.5ms. The picture shows the paths generated from running with 1000 random start-end pairs.|![Rust OSM](https://github.com/andrewgazelka/RustOpenStreetMap/blob/master/.github/bda.png)|
