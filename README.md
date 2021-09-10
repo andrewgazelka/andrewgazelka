@@ -9,8 +9,3 @@ Some things I ❤️ that you should look at!
 - 🐱 [Git Rebase](https://git-scm.com/docs/git-rebase)
 - ⌨️ [IdeaVim](https://github.com/JetBrains/ideavim)
 - 🧼 [Clean Code](http://blog.cleancoder.com/)
-
-This week, my programming time has been spent as follows:
-<p align="center">
-  <img width="460" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1">
-</p>
