@@ -2,6 +2,11 @@
 
 Contact: `{first} (dot) {last} (at) gmail (dot) com`. My Discord is `Andrew Gazelka#0001`. 
 
+This week, my programming time has been spent as follows:
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewgazelka&langs_count=6&hide_title=1&range=last_7_days">
+</p>
+
 Some things I ❤️ that you should look at!
 -   <img src=".github/kotlin.png" alt="Kotlin Emoji" width="15"> [Structured concurrency](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
 - 🦀 [Memory ownership](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html)
