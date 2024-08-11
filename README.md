@@ -1,3 +1,3 @@
 ### Hello, I'm Andrew 👋🏼. 
 
-Email me: `{username}@gmail.com`.
+Email me: `andrew.gazelka@gmail.com`.
