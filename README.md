@@ -14,5 +14,3 @@ Website: https://bountybot.dev
 Email me: `andrew@bountybot.dev`.
 
 Schedule a meeting: https://fantastical.app/andrewgazelka/hello
-
-Crush your Enemy Totally
