@@ -7,7 +7,7 @@ Fund any GitHub issue by commenting `@addbounty`; example `@addbounty $50`
 
 Home: San Francisco.
 
-Text me if you love tea, house music, hiking: `‪four-one-five 763-5119‬`
+Email me if you love tea, house music, hiking.
 
 Website: https://bountybot.dev
 
