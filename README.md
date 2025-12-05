@@ -1,8 +1,8 @@
 ## Projects
 
 ### Minecraft
-- [hyperion](https://github.com/hyperion-mc/hyperion) - Game engine for massive custom events (1k+ ⭐)
-- [SwarmBot](https://github.com/SwarmBotMC/SwarmBot) - Autonomous bot launcher (98 ⭐, archived)
+- [hyperion](https://github.com/hyperion-mc/hyperion) - Game engine for massive custom events
+- [SwarmBot](https://github.com/SwarmBotMC/SwarmBot) - Autonomous bot launcher (archived)
 - [rgb](https://github.com/andrewgazelka/rgb) - High-performance server with hot-reloadable plugins
 
 ### Claude Code Extensions
@@ -19,5 +19,10 @@
 - [human-id](https://github.com/andrewgazelka/human-id) - Human-readable ID generation
 - [x](https://github.com/andrewgazelka/x) - Rootless, cross-platform Nix package runner
 
+### Robotics
+- [ezAuton](https://github.com/ezAuton/ezAuton) - FRC/FTC autonomous toolkit
+
 ### Contributions
-- [nushell](https://github.com/nushell/nushell) - A new type of shell (37k+ ⭐)
+- [nushell](https://github.com/nushell/nushell) - A new type of shell
+- [flecs-rust](https://github.com/Indra-db/Flecs-Rust) - Rust API for Flecs
+- [flecs-explorer](https://github.com/flecs-hub/explorer) - Web UI for Flecs
