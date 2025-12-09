@@ -15,6 +15,8 @@
 - [bounty](https://github.com/andrewgazelka/bounty) - Plugin marketplace
 
 ### Developer Tools
+- [sgrep](https://github.com/andrewgazelka/sgrep) - Local semantic code search for M-series Macs
+- [xpost](https://github.com/andrewgazelka/xpost) - Post to X from your terminal
 - [cursor-sync](https://github.com/andrewgazelka/cursor-sync) - Sync cursor between VSCode and JetBrains
 - [pre-commit-rs](https://github.com/andrewgazelka/pre-commit-rs) - Fast pre-commit hooks in Rust
 - [schema](https://github.com/andrewgazelka/schema) - Schema utilities
