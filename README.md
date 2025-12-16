@@ -12,6 +12,7 @@
 
 ### Claude Code Extensions
 - [tap](https://github.com/andrewgazelka/tap) - Let Claude Code see and control your terminal
+- [claude-autoread](https://github.com/andrewgazelka/claude-autoread) - Auto-inject AGENTS.md, CONTRIBUTING.md into context
 - [arc-mcp](https://github.com/andrewgazelka/arc-mcp) - Control Arc browser via MCP
 - [mcp-notify](https://github.com/andrewgazelka/mcp-notify) - Text-to-speech notifications
 - [mcsound](https://github.com/andrewgazelka/mcsound) - Minecraft sound effects for Claude Code
