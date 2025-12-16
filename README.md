@@ -19,6 +19,7 @@
 - [bounty](https://github.com/andrewgazelka/bounty) - Plugin marketplace
 
 ### Developer Tools
+- [zsync](https://github.com/andrewgazelka/zsync) - Fast file sync over SSH
 - [sgrep](https://github.com/andrewgazelka/sgrep) - Local semantic code search for M-series Macs
 - [xpost](https://github.com/andrewgazelka/xpost) - Post to X from your terminal
 - [cursor-sync](https://github.com/andrewgazelka/cursor-sync) - Sync cursor between VSCode and JetBrains
