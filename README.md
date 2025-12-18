@@ -35,3 +35,7 @@
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [flecs-rust](https://github.com/Indra-db/Flecs-Rust) - Rust API for Flecs
 - [flecs-explorer](https://github.com/flecs-hub/explorer) - Web UI for Flecs
+
+## Wishlist
+
+- Live profiler with the power of [Tracy](https://github.com/wolfpld/tracy) but for OpenTelemetry in production
