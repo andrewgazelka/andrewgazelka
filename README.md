@@ -1,8 +1,3 @@
-> [!WARNING]
-> If a commit is not verified, it was almost certainly made by AI ;)
-
-<img src=".github/assets/claude.svg" height="24">&nbsp;&nbsp;<img src=".github/assets/nushell.svg" height="24">&nbsp;&nbsp;<img src=".github/assets/nix.svg" height="24">&nbsp;&nbsp;<img src=".github/assets/rust.svg" height="24">&nbsp;&nbsp;<img src=".github/assets/uv.svg" height="24">&nbsp;&nbsp;<img src=".github/assets/typescript.svg" height="24">&nbsp;&nbsp;<img src=".github/assets/bun.svg" height="24">
-
 ## Projects
 
 ### Minecraft
