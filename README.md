@@ -34,3 +34,5 @@
 ## Wishlist
 
 - Live profiler with the power of [Tracy](https://github.com/wolfpld/tracy) but for OpenTelemetry in production
+- GitHub competitor
+- TUI recording/replay system (like [rrweb](https://github.com/rrweb-io/rrweb) but for terminals) with video export
