@@ -31,6 +31,16 @@
 - [flecs-rust](https://github.com/Indra-db/Flecs-Rust) - Rust API for Flecs
 - [flecs-explorer](https://github.com/flecs-hub/explorer) - Web UI for Flecs
 
+## Cool Repos
+
+| Repo | Description | Tags |
+|------|-------------|------|
+| [snix](https://git.snix.dev/snix/snix) | Modular Rust reimplementation of Nix with content-addressed storage | `nix` `rust` `castore` `modular` |
+| [nix-ninja](https://github.com/pdtpartners/nix-ninja) | Incremental compilation using dynamic derivations | `nix` `ninja` `incremental` `dynamic-derivations` |
+| [tvix](https://github.com/tvlfyi/tvix) | Original Rust Nix implementation (snix forked from this) | `nix` `rust` `tvl` |
+| [bubblewrap](https://github.com/containers/bubblewrap) | Lightweight unprivileged sandboxing using Linux namespaces | `sandbox` `namespaces` `flatpak` |
+| [cargo](https://github.com/rust-lang/cargo) | Rust package manager, great reference for build graphs | `rust` `build-system` `incremental` |
+
 ## Wishlist
 
 - Live profiler with the power of [Tracy](https://github.com/wolfpld/tracy) but for OpenTelemetry in production
