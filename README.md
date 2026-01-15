@@ -41,6 +41,8 @@
 
 ## Wishlist
 
-- Live profiler with the power of [Tracy](https://github.com/wolfpld/tracy) but for OpenTelemetry in production
-- GitHub competitor
-- TUI recording/replay system (like [rrweb](https://github.com/rrweb-io/rrweb) but for terminals) with video export
+| Idea | Description | Tags |
+|------|-------------|------|
+| Live Profiler | [Tracy](https://github.com/wolfpld/tracy)-level power but for OpenTelemetry in production | `📊 profiling` `🔭 opentelemetry` `⚡ performance` |
+| GitHub Competitor | Self-hosted alternative to GitHub | `🌐 web` `📦 git` `🏠 self-hosted` |
+| TUI Recorder | Recording/replay system like [rrweb](https://github.com/rrweb-io/rrweb) but for terminals, with video export | `💻 terminal` `🎬 recording` `📹 video` |
